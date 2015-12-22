@@ -1,0 +1,28 @@
+name: Wordless
+favicon: null
+layout_spectrum: 0.9804292377084494
+typography_spectrum: 0.517259786138311
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.12314934143796563
+  lightness: 0.2527283129747957
+  saturation: 0.9149799570441246
+  rhythmicContrast: 0.4639546452090144
+purpose: []
